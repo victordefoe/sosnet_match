@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is an unoffical implementation of CVPR 2019 accepted paper "SOSNet: Second Order Similarity Regularization for Local Descriptor Learning" , and because of the training process was not public, I will try to follow with my understanding and use it in our dataset.
 
 ## Task
@@ -11,4 +12,7 @@ test dataset named "Collection_1" (aka Collection-850) contain 850 synthetic ima
 test dataset named "NWPU-ChangAn" is the real-world dataset with nearly 150 photo.
 
 we test there ability of matching with historical satellite image.
+=======
+This is an implementation of CVPR 2019 accepted paper "SOSNet: Second Order Similarity Regularization for Local Descriptor Learning" , and because of the training process was not public, I will try to follow with my understanding and use it in our dataset.
+>>>>>>> 6f2857f4faefc82cc9c0c5aa1288bb5d13d9d0ba
 
